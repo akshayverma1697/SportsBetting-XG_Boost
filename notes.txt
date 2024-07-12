@@ -55,10 +55,10 @@ More Data:
 
 
 Neural Network: I use four fully-connected layers, reducing the input of dimension 1524 to size 500, then 100,
-then 20, then finally a 1-dimensional output that predicts the Over- Under of the desired game (see Figure 2).
+then 20, then finally a 1-dimensional output that predicts the Over- Under of the desired game.
 I used a weight decay parameter of 1 to regularize the weights of the network,
 and a learning rate of 10−6 over 5000 epochs, using Gradient Descent.
-This allowed the network to roughly train to convergence (see Figure 5)
+This allowed the network to roughly train to convergence
 
 When I was training the models, I found while I had data available starting from the 2007 − 2008 season,
 I achieved the highest levels of validation accuracy when the training dataset started from the 2012 − 2013 season
