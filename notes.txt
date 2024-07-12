@@ -53,9 +53,9 @@ More Data:
     https://www.gamblingsites.org/sports-betting/kelly-criterion/
 
 https://cs229.stanford.edu/proj2018/report/3.pdf
-    Neural Network: We use four fully-connected layers, reducing the input of dimension 1524 to size 500, then 100,
+    Neural Network: I use four fully-connected layers, reducing the input of dimension 1524 to size 500, then 100,
     then 20, then finally a 1-dimensional output that predicts the Over- Under of the desired game (see Figure 2).
-    We used a weight decay parameter of 1 to regularize the weights of the network,
+    I used a weight decay parameter of 1 to regularize the weights of the network,
     and a learning rate of 10−6 over 5000 epochs, using Gradient Descent.
     This allowed the network to roughly train to convergence (see Figure 5)
 
