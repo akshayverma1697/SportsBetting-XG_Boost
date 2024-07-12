@@ -17,7 +17,7 @@ Use Python 3.11. In particular the packages/libraries used are...
 
 ## Usage
 
-<img src="Screenshots/Expected_value.png" width="1010" height="424" />
+<img src="https://github.com/akshayverma1697/SportsBetting-XG_Boost/blob/main/Screenshots/Expected_value.png" width="1010" height="424" />
 
 Make sure all packages above are installed.
 
@@ -35,7 +35,7 @@ If `-odds` is not given, enter the under/over and odds for today's games manuall
 Optionally, you can add '-kc' as a command line argument to see the recommended fraction of your bankroll to wager based on the model's edge
 
 ## Flask Web App
-<img src="Screenshots/Flask-App.png" width="922" height="580" />
+<img src="https://github.com/akshayverma1697/SportsBetting-XG_Boost/blob/main/Screenshots/Flask-App.png" width="922" height="580" />
 
 This repo also includes a small Flask application to help view the data from this tool in the browser.  To run it:
 ```
