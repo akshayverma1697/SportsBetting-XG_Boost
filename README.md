@@ -23,7 +23,7 @@ Make sure all packages above are installed.
 
 ```bash
 $ git clone https://github.com/akshayverma1697/SportsBetting-XG_Boost.git
-$ cd NBA-Machine-Learning-Sports-Betting
+$ cd SportsBetting-XG_Boost
 $ pip3 install -r requirements.txt
 $ python3 main.py -xgb -odds=fanduel
 ```
