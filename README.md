@@ -56,9 +56,3 @@ cd ../Train-Models
 python -m XGBoost_Model_ML
 python -m XGBoost_Model_UO
 ```
-
-## Contributing
-
-All contributions welcomed and encouraged.
-
-Two Datasets included are zipped, please unzip them when running this model, I am not able to add them due to size limitations.
